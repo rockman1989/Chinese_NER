@@ -10,6 +10,8 @@ python=3.6
 
 Kashgari=1.1.5
 
+tensorflow=1.15
+
 # 数据源
 从github上下载的人们日报数据
 
